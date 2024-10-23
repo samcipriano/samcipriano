@@ -1,4 +1,4 @@
-## Olá! Eu sou o Samuel Cipriano, estudante de ADS e desenvolvedor Fullstack. 
+## Olá! Eu sou o Samuel Cipriano desenvolvedor Fullstack. 
 
 <div align="center">
   
